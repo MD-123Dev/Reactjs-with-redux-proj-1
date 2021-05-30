@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-# Components og the project : 
+# Components of the project : 
 
  - add - read - delete with redux in reactjs . 
  - use and import Bootstrap 
